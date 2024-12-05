@@ -1,4 +1,4 @@
-# 👋 Hi There！
+# 👋 Hi There!
 
 🏫 I am a student who develops software as a hobby.
 
